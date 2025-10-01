@@ -1,4 +1,3 @@
-Hello, my name is jidan and this is my first repository
-baris baru
-baris ke 3
-baris ke 923019239821938
+Percobaan 1:
+1. Karena kondisi yang dicek hanya bersifat boolean (true/false) sehingga tidak memerlukan operator rasional.
+2. Program langsung selesai
